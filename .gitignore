@@ -1,0 +1,7 @@
+token.json
+credentials.json
+.env
+/Scripts
+/Lib
+/include
+/__pycache__
